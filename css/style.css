@@ -1,0 +1,48 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Raleway';
+}
+.container {
+        display: flex;
+        align-items: center;
+}
+.bc {
+        background: url(../img/Фон\ \(1\).png)  no-repeat center / cover;
+        height: 1100px;
+        width: 100%;
+        position: absolute;
+}
+
+nav a {
+       padding-top: 30px;
+       margin-left:60px ;
+        text-decoration: none;
+        color: white;
+        font-size: 24px;
+}
+nav {
+        padding-left: 60px;
+       padding-top: 20px;
+}
+.miid {
+     text-align: center;
+     margin-top: 20px;
+     margin-left: 400px;
+     
+}
+.rightt a {
+     margin-left: 40px;
+}
+.rightt {
+        margin-left: 500px;                     
+}
+.nov {
+        text-align: center;
+        padding-top: 400px;
+}
+p {
+        color: #FFFFFF;
+        font-size: 46px;
+}
